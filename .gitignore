@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Telegram session
+*.session
+
+# Generated files
+downloads/
+
+# IDE
+.vscode/
+.claude/
+.agents/
