@@ -1,7 +1,3 @@
-
-<p align="center">
-  <img src="https://i.ibb.co/dJ0gpJf1/photo-2025-06-16-12-07-05-7516517596376596504.jpg" alt="Rajendra Save Restricted Bot Logo">
-</p>
 <h1 align="center">
   Rajendra Save Restricted Bot
 </h1>
